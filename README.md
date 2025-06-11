@@ -43,8 +43,8 @@ This bot allows users with a specific "submitter" role to select messages contai
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/4T88/ticket-media-manager
+    cd https://github.com/4T88/ticket-media-manager
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
